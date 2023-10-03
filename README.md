@@ -10,12 +10,11 @@ Import and analyze employee and department records using postgres sql.
 
 - [Usage](#usage)
 
-- [Installation_and_Setup](#Installation and Setup)
+- [Installation_and_Setup](#installation-and-setup)
 
-- [Table structure](#Table Structure)
+- [Table structure](#table-structure)
 
 - [Contact](#contact)
-
 
 
 ## Usage
